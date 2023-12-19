@@ -1,0 +1,3 @@
+2023-12-19 23:12:768 INFO  Homepage :114 - Clicking on Desktops tab : [[ChromeDriver: chrome on windows (a5a16d7351e468b068c92713f0b5c05c)] -> xpath: //a[normalize-space()='Desktops']]
+2023-12-19 23:12:39 INFO  Homepage :54 - Select menu option : Show AllDesktops
+2023-12-19 23:12:69 INFO  AccountPage :35 - Getting text from : [[ChromeDriver: chrome on windows (a5a16d7351e468b068c92713f0b5c05c)] -> tag name: h2]
