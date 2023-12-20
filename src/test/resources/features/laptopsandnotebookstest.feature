@@ -2,17 +2,18 @@ Feature: Laptops and notebooks Test
   As a user,
   I want to check Laptops and notebooks page functionality
 
-  @Background: I am on Homepage
   @sanity
   Scenario: verify Product Arrange In Alphabetical Order
+    Given I am on Homepage
     When  I mouse hoover on tab Laptops & Notebooks and click
     And   I click on Show All  Laptops & Notebooks option
     And   I click on Sort By "Price (High > Low)"
-    Then I verify the Product price will arrange in High to Low order
+    Then  I verify the Product price will arrange in High to Low order
 
   @regression
   Scenario: Verify that user place order successfully
-    When   I mouse hoover on tab Laptops & Notebooks and click
+    Given I am on Homepage
+    When  I mouse hoover on tab Laptops & Notebooks and click
     And   I click on Show All  Laptops & Notebooks option
     And   I click on Sort By "Price (High > Low)"
     And   I select Product 'MacBook'
@@ -26,10 +27,10 @@ Feature: Laptops and notebooks Test
     And   I click on 'Update' Tab
     Then  I can see the message 'Success: You have modified your shopping cart!'
     Then  I can see the Total £737.45
-    And  I click on 'Checkout' button
-    Then I can see the text 'Checkout'
-    Then I can see the Text 'New Customer'
-    And  I click on 'Guest Checkout' radio button
+    And   I click on 'Checkout' button
+    Then  I can see the text 'Checkout'
+    Then  I can see the Text 'New Customer'
+    And   I click on 'Guest Checkout' radio button
     And   I click on 'Continue' tab
     And   I fill the mandatory fields
     And   I click on 'Continue' Button

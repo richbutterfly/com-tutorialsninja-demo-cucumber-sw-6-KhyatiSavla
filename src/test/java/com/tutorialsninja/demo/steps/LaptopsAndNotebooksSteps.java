@@ -2,11 +2,16 @@ package com.tutorialsninja.demo.steps;
 
 import com.tutorialsninja.demo.pages.*;
 import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.testng.Assert;
 
 public class LaptopsAndNotebooksSteps {
+
+    @Given("I am on Homepage")
+    public void iAmOnHomepage() {
+    }
     @When("I mouse hoover on tab Laptops & Notebooks and click")
     public void iMouseHooverOnTabLaptopsNotebooksAndClick() {
         new Homepage().clickOnLaptopsAndNoteBooksTab();
@@ -128,4 +133,6 @@ public class LaptopsAndNotebooksSteps {
     public void iCanSeeTheMessageWarningPaymentMethodRequiredInMiddlePage() {
         Assert.assertEquals(new CheckOutPage().verifyPaymentWarningText(),"Warning: Payment method required!");
     }
+
+
 }

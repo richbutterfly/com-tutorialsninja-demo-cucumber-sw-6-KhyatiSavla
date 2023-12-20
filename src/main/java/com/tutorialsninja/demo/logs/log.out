@@ -1,3 +1,58 @@
 2023-12-19 23:12:768 INFO  Homepage :114 - Clicking on Desktops tab : [[ChromeDriver: chrome on windows (a5a16d7351e468b068c92713f0b5c05c)] -> xpath: //a[normalize-space()='Desktops']]
 2023-12-19 23:12:39 INFO  Homepage :54 - Select menu option : Show AllDesktops
 2023-12-19 23:12:69 INFO  AccountPage :35 - Getting text from : [[ChromeDriver: chrome on windows (a5a16d7351e468b068c92713f0b5c05c)] -> tag name: h2]
+2023-12-20 00:12:982 INFO  RegisterPage :101 - Getting text from : [[ChromeDriver: chrome on windows (00bcd25febf488c57c4a8695cbd22a82)] -> xpath: //h1[normalize-space()='Register Account']]
+2023-12-20 00:12:298 INFO  Homepage :114 - Clicking on Desktops tab : [[ChromeDriver: chrome on windows (ce80a5e9463d4ba042d415806a83b14f)] -> xpath: //a[normalize-space()='Desktops']]
+2023-12-20 00:12:478 INFO  Homepage :62 - Clicking on Show All Desktops : [[ChromeDriver: chrome on windows (ce80a5e9463d4ba042d415806a83b14f)] -> xpath: //a[normalize-space()='Show AllDesktops']]
+2023-12-20 00:12:588 INFO  AccountPage :40 - Clicking on Sort By drop down  : [[ChromeDriver: chrome on windows (ce80a5e9463d4ba042d415806a83b14f)] -> xpath: //select[@id='input-sort']]
+2023-12-20 00:12:358 INFO  Homepage :119 - Clicking on Laptops And NoteBooks Tab : [[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //a[normalize-space()='Laptops & Notebooks']]
+2023-12-20 00:12:233 INFO  Homepage :54 - Select menu option : Show AllLaptops & Notebooks
+2023-12-20 00:12:270 INFO  LaptopsAndNotebookPage :41 - Clicking on Sort By : [[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //select[@id='input-sort']]
+2023-12-20 00:12:944 INFO  LaptopsAndNotebookPage :57 - Verify Product sorted  price High to low [[[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //p[@class ='price']]]
+2023-12-20 00:12:21 INFO  LaptopsAndNotebookPage :57 - Verify Product sorted  price High to low [[[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (af6bbf32a976da5731ac5470b8ec4c67)] -> xpath: //p[@class ='price']]]
+2023-12-20 00:12:735 INFO  Homepage :114 - Clicking on Desktops tab : [[ChromeDriver: chrome on windows (eefda089808c436820e439d40e4243bc)] -> xpath: //a[normalize-space()='Desktops']]
+2023-12-20 00:12:953 INFO  Homepage :54 - Select menu option : Show AllDesktops
+2023-12-20 00:12:978 INFO  AccountPage :35 - Getting text from : [[ChromeDriver: chrome on windows (eefda089808c436820e439d40e4243bc)] -> tag name: h2]
+2023-12-20 00:12:688 INFO  Homepage :114 - Clicking on Desktops tab : [[ChromeDriver: chrome on windows (f718751fad8ee35676e6e61fcc5b3edc)] -> xpath: //a[normalize-space()='Desktops']]
+2023-12-20 00:12:861 INFO  Homepage :62 - Clicking on Show All Desktops : [[ChromeDriver: chrome on windows (f718751fad8ee35676e6e61fcc5b3edc)] -> xpath: //a[normalize-space()='Show AllDesktops']]
+2023-12-20 00:12:721 INFO  Homepage :90 - Clicking on Currency Drop Down : [[ChromeDriver: chrome on windows (f718751fad8ee35676e6e61fcc5b3edc)] -> xpath: //i[@class='fa fa-caret-down']]
+2023-12-20 00:12:797 INFO  AccountPage :40 - Clicking on Sort By drop down  : [[ChromeDriver: chrome on windows (f718751fad8ee35676e6e61fcc5b3edc)] -> xpath: //select[@id='input-sort']]
+2023-12-20 00:12:323 INFO  AccountPage :45 - Clicking on HPLP3065 product : [[ChromeDriver: chrome on windows (f718751fad8ee35676e6e61fcc5b3edc)] -> xpath: //a[contains(text(),'HP LP3065')]]
+2023-12-20 00:12:556 INFO  ProductPage :47 - Getting text from : [[ChromeDriver: chrome on windows (f718751fad8ee35676e6e61fcc5b3edc)] -> xpath: //h1[normalize-space()='HP LP3065']]
+2023-12-20 00:12:425 INFO  ProductPage :67 - Entering quantity : Proxy element for: DefaultElementLocator 'By.id: //input[@id='input-quantity']'
+2023-12-20 00:12:451 INFO  LoginPage :46 - Getting text from : [[ChromeDriver: chrome on windows (a199c7eb513b5bc3c98ee4be11fbe13b)] -> xpath: //h2[normalize-space()='Returning Customer']]
+2023-12-20 00:12:984 INFO  Homepage :119 - Clicking on Laptops And NoteBooks Tab : [[ChromeDriver: chrome on windows (32b16beeb489621ab81c6362fc94323e)] -> xpath: //a[normalize-space()='Laptops & Notebooks']]
+2023-12-20 00:12:849 INFO  Homepage :54 - Select menu option : Show AllLaptops & Notebooks
+2023-12-20 00:12:897 INFO  LaptopsAndNotebookPage :36 - Getting text from : [[ChromeDriver: chrome on windows (32b16beeb489621ab81c6362fc94323e)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2023-12-20 00:12:308 INFO  RegisterPage :60 - Entering First Name into : [[ChromeDriver: chrome on windows (602fd352328b00ecc4640f7675aee363)] -> id: input-firstname]
+2023-12-20 00:12:428 INFO  RegisterPage :64 - Entering Last Name into : [[ChromeDriver: chrome on windows (602fd352328b00ecc4640f7675aee363)] -> id: input-lastname]
+2023-12-20 00:12:543 INFO  RegisterPage :68 - Entering email Id into : [[ChromeDriver: chrome on windows (602fd352328b00ecc4640f7675aee363)] -> id: input-email]
+2023-12-20 00:12:659 INFO  RegisterPage :72 - Entering Telephone into : [[ChromeDriver: chrome on windows (602fd352328b00ecc4640f7675aee363)] -> name: telephone]
+2023-12-20 00:12:786 INFO  RegisterPage :76 - Entering Password into : [[ChromeDriver: chrome on windows (602fd352328b00ecc4640f7675aee363)] -> id: input-password]
+2023-12-20 00:12:878 INFO  RegisterPage :80 - Entering Confirm Password into : [[ChromeDriver: chrome on windows (602fd352328b00ecc4640f7675aee363)] -> id: input-confirm]
+2023-12-20 00:12:973 INFO  RegisterPage :84 - Clicking on Yes Radio Button : [[ChromeDriver: chrome on windows (602fd352328b00ecc4640f7675aee363)] -> xpath: //label[normalize-space()='Yes']]
+2023-12-20 00:12:45 INFO  RegisterPage :88 - Clicking on Private Policy CheckBox : [[ChromeDriver: chrome on windows (602fd352328b00ecc4640f7675aee363)] -> xpath: //input[@name='agree']]
+2023-12-20 00:12:116 INFO  RegisterPage :92 - Clicking on Continue Button : [[ChromeDriver: chrome on windows (602fd352328b00ecc4640f7675aee363)] -> xpath: //input[@value='Continue']]
+2023-12-20 00:12:630 INFO  AccountPage :40 - Getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2023-12-20 00:12:835 INFO  Homepage :114 - Clicking on Desktops tab : [[ChromeDriver: chrome on windows (9714be3f2ff9a899f0f22f41d9dec4ee)] -> xpath: //a[normalize-space()='Desktops']]
+2023-12-20 00:12:15 INFO  Homepage :62 - Clicking on Show All Desktops : [[ChromeDriver: chrome on windows (9714be3f2ff9a899f0f22f41d9dec4ee)] -> xpath: //a[normalize-space()='Show AllDesktops']]
+2023-12-20 00:12:301 INFO  Homepage :90 - Clicking on Currency Drop Down : [[ChromeDriver: chrome on windows (9714be3f2ff9a899f0f22f41d9dec4ee)] -> xpath: //i[@class='fa fa-caret-down']]
+2023-12-20 00:12:371 INFO  AccountPage :40 - Clicking on Sort By drop down  : [[ChromeDriver: chrome on windows (9714be3f2ff9a899f0f22f41d9dec4ee)] -> xpath: //select[@id='input-sort']]
+2023-12-20 00:12:908 INFO  AccountPage :45 - Clicking on HPLP3065 product : [[ChromeDriver: chrome on windows (9714be3f2ff9a899f0f22f41d9dec4ee)] -> xpath: //a[contains(text(),'HP LP3065')]]
+2023-12-20 00:12:433 INFO  ProductPage :47 - Getting text from : [[ChromeDriver: chrome on windows (9714be3f2ff9a899f0f22f41d9dec4ee)] -> xpath: //h1[normalize-space()='HP LP3065']]
+2023-12-20 00:12:421 INFO  ProductPage :67 - Entering quantity : Proxy element for: DefaultElementLocator 'By.id: //input[@id='input-quantity']'
+2023-12-20 00:12:872 INFO  Homepage :119 - Clicking on Laptops And NoteBooks Tab : [[ChromeDriver: chrome on windows (a55166026086b1d139b3448391c09899)] -> xpath: //a[normalize-space()='Laptops & Notebooks']]
+2023-12-20 00:12:728 INFO  Homepage :54 - Select menu option : Show AllLaptops & Notebooks
+2023-12-20 00:12:765 INFO  LaptopsAndNotebookPage :41 - Clicking on Sort By : [[ChromeDriver: chrome on windows (a55166026086b1d139b3448391c09899)] -> xpath: //select[@id='input-sort']]
+2023-12-20 00:12:355 INFO  LaptopsAndNotebookPage :46 - Clicking on Mac Book : [[ChromeDriver: chrome on windows (a55166026086b1d139b3448391c09899)] -> xpath: //a[normalize-space()='MacBook']]
+2023-12-20 00:12:892 INFO  ProductPage :72 - Getting text from : [[ChromeDriver: chrome on windows (a55166026086b1d139b3448391c09899)] -> xpath: //h1[normalize-space()='MacBook']]
+2023-12-20 00:12:928 INFO  ProductPage :52 - Clicking on Add to Cart : [[ChromeDriver: chrome on windows (a55166026086b1d139b3448391c09899)] -> xpath: //button[@id='button-cart']]
+2023-12-20 00:12:997 INFO  LoginPage :31 - Entering email Id into : [[ChromeDriver: chrome on windows (aff4c8d38e43905ac4a995188450f510)] -> name: email]
+2023-12-20 00:12:139 INFO  LoginPage :36 - Entering password into : [[ChromeDriver: chrome on windows (aff4c8d38e43905ac4a995188450f510)] -> name: password]
+2023-12-20 00:12:239 INFO  LoginPage :41 - Clicking on Login Button : [[ChromeDriver: chrome on windows (aff4c8d38e43905ac4a995188450f510)] -> css selector: input[value='Login']]
+2023-12-20 00:12:113 INFO  AccountPage :45 - Getting text from : [[ChromeDriver: chrome on windows (aff4c8d38e43905ac4a995188450f510)] -> xpath: //h2[normalize-space()='My Account']]
+2023-12-20 00:12:144 INFO  AccountPage :60 - Clicking on My Account Link : [[ChromeDriver: chrome on windows (aff4c8d38e43905ac4a995188450f510)] -> xpath: //a[@class='list-group-item'][normalize-space()='My Account']]
+2023-12-20 00:12:592 INFO  LogOutPage :23 - Getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Account Logout')]'
+2023-12-20 00:12:851 INFO  Homepage :80 - Clicking on Components : [[ChromeDriver: chrome on windows (4bb8f2efbec62790079d14245c38705b)] -> xpath: //a[normalize-space()='Components']]
+2023-12-20 00:12:538 INFO  Homepage :54 - Select menu option : Show AllComponents
+2023-12-20 00:12:572 INFO  AccountPage :20 - Getting text from : [[ChromeDriver: chrome on windows (4bb8f2efbec62790079d14245c38705b)] -> xpath: //h2[contains(text(),'Components')]]
